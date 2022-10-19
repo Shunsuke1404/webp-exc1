@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(252, 242, 43);
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: right;
+}
+html {
+    background-color: #2ff4ea;
+}
+
+p {
+    font-size: 20px;
+    background-color: #e6fa12;
+}
